@@ -1,0 +1,3 @@
+go to domino.com site
+select the pizza
+order the pizza
